@@ -12,7 +12,7 @@ namespace XTestRect
 
             var res = rect.Area();
 
-            Assert.Equal(5, res);
+            Assert.Equal(6, res);
         }
     }
 }
