@@ -1,6 +1,5 @@
 using System;
 using Xunit;
-using Rect;
 
 namespace XTestRect
 {
@@ -9,7 +8,7 @@ namespace XTestRect
         [Fact]
         public void Test1()
         {
-            Rect rect = new Rect(2, 3);
+            Rect.Rect rect = new Rect.Rect(2, 3);
 
             var res = rect.Area();
 
