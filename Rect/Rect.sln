@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rect", "Rect\Rect.csproj", "{91B34DBD-A468-44AF-8502-2C2D0F4FB3F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTestRect", "XTestRect\XTestRect.csproj", "{EFE7D190-59A2-46B1-9760-B2BB88DD87D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91B34DBD-A468-44AF-8502-2C2D0F4FB3F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91B34DBD-A468-44AF-8502-2C2D0F4FB3F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91B34DBD-A468-44AF-8502-2C2D0F4FB3F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91B34DBD-A468-44AF-8502-2C2D0F4FB3F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE7D190-59A2-46B1-9760-B2BB88DD87D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE7D190-59A2-46B1-9760-B2BB88DD87D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE7D190-59A2-46B1-9760-B2BB88DD87D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE7D190-59A2-46B1-9760-B2BB88DD87D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE126FBC-A627-474E-9A23-18A983096DA5}
+	EndGlobalSection
+EndGlobal
